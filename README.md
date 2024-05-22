@@ -28,7 +28,7 @@ Passionate full-stack web developer specialized in MERN stack with a focus on cr
   <a href="https://aravindha2k.github.io/">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-  <a href="www.linkedin.com/in/aravindhakshan-m-25a472233" target="_blank">
+  <a href="https://www.linkedin.com/in/aravindhakshan-m-25a472233/" target="_blank">
   <img align="center" style ="margin-left : 30px" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
